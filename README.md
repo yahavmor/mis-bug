@@ -7,6 +7,9 @@
 - Comment threading system
 - Responsive project dashboard
 
+<img width="1657" height="840" alt="image" src="https://github.com/user-attachments/assets/76f75994-d003-48ed-9848-c80d8709b853" />
+
+
 ## Behind the scenes
 - WebSocket real-time communication
 - React state synchronization
